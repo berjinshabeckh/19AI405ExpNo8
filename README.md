@@ -1,6 +1,6 @@
 # ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
-## Name: ASHWIN KUMAR S
-## Register Number : 212222240013
+## Name: Berjin Shabeck
+## Register Number : 212222240018
 ## Aim:
 To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
 
